@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src ="XHNTLogo.png">
+<img src ="XHNTlogo.png">
 <!--
 **XNeuroOphHT/XNeuroOphHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
