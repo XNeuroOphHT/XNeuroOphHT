@@ -1,7 +1,8 @@
 ## Hi there 👋
 <img src ="XHNTlogo.png" width="100" height="100">
-<h1>.NET</h1>
-xhnt.ht@gmail.com
+<h1>.NET as my main</h1>
+xhnt.ht@gmail.com 
+
 
 <!--
 **XNeuroOphHT/XNeuroOphHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
